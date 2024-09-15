@@ -1,0 +1,19 @@
+#raj{
+background-color: red;
+border-top-left-radius: 80px;
+border-top-right-radius: 80px;
+height: 300px;
+width: 140px;
+font-size: 10px;
+}
+
+#kapoor{
+   background-color: yellow;
+   margin:10px;
+   font-size: 3em;
+    height: 95%;
+    width: 85%;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+ 
+}

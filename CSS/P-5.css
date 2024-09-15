@@ -1,0 +1,32 @@
+h1{
+    font-family: Sans-serif;
+}
+
+p{
+    font-family: serif;
+
+}
+button:hover{
+    background-color: green;
+}
+button:active{
+    background-color: blue;
+}
+/* p:hover{
+    font-weight: bold;
+    color:green;
+} */
+p:active{
+    font-weight: bold;
+    color:green;
+}
+input[type="radio"]:checked+label
+{
+    font-weight: bold;
+    color: red;
+}
+h1::first-letter{
+    color: green;
+    font-weight: bold;
+    font-size: 50px;
+}

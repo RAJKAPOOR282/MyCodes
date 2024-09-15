@@ -1,0 +1,31 @@
+/* ul {
+    font-weight: bold;
+    font-size: 35px;
+  }
+  
+  /* dd {
+    margin: 3px;
+    font-size:25px;
+  } */
+  
+  li:nth-of-type(even) {
+    /* border: 2px solid rgb(27, 207, 126); */
+    text-decoration: underline;
+  }
+  
+  /* div h1 {
+    background-color: blue ;
+  }
+
+#rk .raj{
+    background-color: red;
+  }
+
+.raj{
+  background-color: tomato;
+} */ 
+
+div{
+  background-color: green;
+
+}
